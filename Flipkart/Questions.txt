@@ -1,0 +1,15 @@
+Partition to K Equal Sum Subsets
+Sale and Offers at Flipkart BBD
+Remove Zero Sum Consecutive Nodes
+Winner of the Game
+Finding the Mountain Array
+Number of ways to separate Numbers
+City With the Smallest Number of Neighbors at a Threshold Distance
+Closest Primes in Range
+Top K frequent Words
+Distant Barcodes\
+The new game to Play
+Check If a String Contains All Binary Codes of Size K
+Max Area of Island
+Custom String Sorting
+House Robber - Very Imp.
