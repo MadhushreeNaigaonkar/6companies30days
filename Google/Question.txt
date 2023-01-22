@@ -1,0 +1,15 @@
+Maximum Consecutive Floors Without Special Floors
+Maximum Good People Based on Statements
+Sort an array 
+Fruit into Baskets
+Number of Closed Islands
+Distinct Echo Substrings
+K divisible Array Substrings
+Random Pick with Weight (New Project at Google Play Services)
+Maximum Numbers of Coins you can get
+Network Delay Time
+Matrix Block Sum
+Restore IP Addresses
+Swim in rising Water (Jeff and the rising hat)
+Strictly Palindromic Number
+Max Compatibility Score
