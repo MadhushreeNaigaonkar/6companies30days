@@ -1,0 +1,15 @@
+Shuffle an array
+Cheapest Flights with K stops (Flight system in Europe)
+Split String into maximum number of Unique Substrings
+Tweet Count per Frequency
+Maximum sum of hourglass
+Maximum Subarray Min Product (Amazon Fresh and the team)
+Dota2 Senate
+Destroying Asteroids
+Most Popular Video Creator
+Number of Matching Subsequences (The stewart and the puppy)
+Number of ways to reach a position
+Maximum Length of Repeated Subarray
+Top K frequent words
+Last Moment before all ants Fall out
+Generate Random point in a circle
